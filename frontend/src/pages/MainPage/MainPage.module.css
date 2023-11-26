@@ -1,0 +1,11 @@
+.columnContainer {
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+  justify-content: center;
+}
+
+.addButton {
+  display: flex;
+  justify-content: center;
+}
