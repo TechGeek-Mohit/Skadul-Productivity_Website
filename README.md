@@ -65,7 +65,7 @@ A web backend to store and handle user data, utilizing:
 
 - No Schema
 - Store data in JSON or nested format
-![image](https://github.com/TechGeek-Mohit/Skadul-Productivity_Website/assets/101231709/03cf5b88-7a93-4138-83e0-d23652b7eb15)
 
+![image](https://github.com/TechGeek-Mohit/Skadul-Productivity_Website/assets/101231709/9b868784-5d2b-4d85-ae2e-3c19f47b86b3)
 
 ---
