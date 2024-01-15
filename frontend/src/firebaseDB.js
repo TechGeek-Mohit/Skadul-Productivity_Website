@@ -6,7 +6,7 @@ import React, { useState, useRef } from 'react';
 
 const firebaseConfig = {
     // your firebase config
-    apiKey: "AIzaSyCdqUOU5TVcTdSdHIopPD40HnZuMoF6-ts",
+    apiKey: "##Put your own API Key from Firebase##",
     authDomain: "skadul-e2b60.firebaseapp.com",
     projectId: "skadul-e2b60",
     storageBucket: "skadul-e2b60.appspot.com",
